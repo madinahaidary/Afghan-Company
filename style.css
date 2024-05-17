@@ -1,0 +1,167 @@
+/* index.html */
+.mainnavbar {
+  background-color: gray;
+}
+
+/* ===========================section3================== */
+
+.section3 .row {
+  display: flex;
+  gap: 60px;
+  justify-content: center;
+}
+.section3 .row .card1 {
+  border: 1px solid gray;
+  border-radius: 10px;
+}
+
+.section3 .row .card1 h3 {
+  border: 1px solid gray;
+  text-align: center;
+  background-color: gray;
+  color: white;
+  border-radius: 10px;
+}
+
+.section3 .row .card1 p {
+  text-align: center;
+}
+
+/* =============================section4===================== */
+.section4 {
+  padding-top: 90px;
+  padding-bottom: 90px;
+}
+
+.section4 h1 {
+  text-align: center;
+  padding-bottom: 30px;
+}
+
+.section4 .row {
+  gap: 60px;
+  display: flex;
+  justify-content: center;
+}
+
+.section4 .row .card2 {
+  border: 1px solid gray;
+  border-radius: 20px;
+}
+
+.section4 .row .card2 h3 {
+  text-align: center;
+}
+
+.section4 .row .card2 p {
+  text-align: center;
+}
+
+.container .row .card2 {
+  position: relative;
+  transition: all 0.5s ease;
+}
+
+.container .row .card2:hover {
+  transform: translateY(-17px);
+}
+/* ========================footer================= */
+
+.footer {
+  padding: 50px;
+  background-color: gray;
+}
+
+.footer p {
+  text-align: center;
+  color: white;
+}
+
+/* end index.html */
+
+/* start about.html */
+
+/* =====================section1================== */
+
+.section1 {
+  padding-top: 90px;
+}
+
+.section1 h1 {
+  text-align: center;
+}
+
+.section1 p {
+  text-align: center;
+}
+
+/* ===========================section2====================== */
+
+.sectionabout {
+  text-align: center;
+  background-color: gray;
+  padding-top: 30px;
+  margin-top: 90px;
+}
+
+.section2 .carousel-inner {
+  width: 100%;
+  height: 200px;
+  background-color: gray;
+  display: flex;
+  text-align: center;
+  align-items: center;
+  margin-top: 100px;
+}
+
+/* =========================section3===================== */
+
+.section3 {
+  margin-top: 50px;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.section3 .card1 h3 {
+  text-align: center;
+}
+
+.section3 .card1 p {
+  text-align: center;
+}
+
+/* ===========================footer====================== */
+
+.footer {
+  padding: 50px;
+  background-color: black;
+}
+
+.footer p {
+  text-align: center;
+  color: white;
+}
+
+/* end of about.html */
+
+/* start services */
+
+/* ====================section1==================== */
+
+.
+
+/* ==============================section2================== */
+.container-fluid .container {
+  text-align: center;
+  padding: 40px;
+}
+
+.container-fluid .container .row .maincard .card .btn {
+  color: white;
+  background-color: gray;
+}
+
+/* end of services.html */
+
+/* start contactus.html */
